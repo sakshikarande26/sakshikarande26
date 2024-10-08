@@ -3,8 +3,6 @@
   <p><em>Data Science Student | AI Engineer & Research Intern</em></p>
   <p>I'm passionate about AI and machine learning, focusing on solving real-world problems with innovative solutions. Based in Mumbai, I enjoy working on AI projects and pushing the boundaries of technology!</p>
 </div>
----
----
 
 <div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
   <h3 style="color: #ff6f61;">🎯 Interests</h3>
