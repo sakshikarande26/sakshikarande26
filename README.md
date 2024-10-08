@@ -40,6 +40,4 @@
 <div align="center">
   <h3 style="color: #ff6f61;">📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=material-palenight&bg_color=0,0,0,0" alt="Sakshi's GitHub Stats" style="border: none;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=graywhite&bg_color=0,0,0,0" alt="Sakshi's GitHub Stats" style="border: none;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark&bg_color=0,0,0,0" alt="Sakshi's GitHub Stats" style="border: none;"/>
 </div>
