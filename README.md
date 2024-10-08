@@ -3,29 +3,7 @@
   <p><em>Data Science Student | AI Engineer & Research Intern</em></p>
   <p>I'm passionate about AI and machine learning, focusing on solving real-world problems with innovative solutions. Based in Mumbai, I enjoy working on AI projects and pushing the boundaries of technology!</p>
 </div>
-
 ---
-
-<div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
-  <h3 style="color: #ff6f61;">🔍 What I Build</h3>
-  <p style="color: #ff8f8f;">I work on smart AI applications and research to contribute to the AI revolution. From AI-driven solutions to data science tools, my work focuses on solving complex problems effectively.</p>
-</div>
-
-<div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
-  <h3 style="color: #ff6f61;">💡 Why I Build</h3>
-  <p style="color: #ff8f8f;">AI holds the potential to revolutionize industries. My mission is to use AI for impactful, real-world applications that improve lives and transform the way we work and live.</p>
-</div>
-
----
-
-<div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
-  <h3 style="color: #ff6f61;">📫 Get in Touch</h3>
-  <p>
-    <a href="mailto:your.email@example.com" style="color: #ff6f61;">✉️ your.email@example.com</a> | 
-    <a href="https://www.linkedin.com/in/sakshi-karande/" style="color: #ff6f61;">🔗 LinkedIn</a>
-  </p>
-</div>
-
 ---
 
 <div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
@@ -51,6 +29,29 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </p>
 </div>
+
+---
+
+<div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
+  <h3 style="color: #ff6f61;">🔍 What I Build</h3>
+  <p style="color: #ff8f8f;">I work on smart AI applications and research to contribute to the AI revolution. From AI-driven solutions to data science tools, my work focuses on solving complex problems effectively.</p>
+</div>
+
+<div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
+  <h3 style="color: #ff6f61;">💡 Why I Build</h3>
+  <p style="color: #ff8f8f;">AI holds the potential to revolutionize industries. My mission is to use AI for impactful, real-world applications that improve lives and transform the way we work and live.</p>
+</div>
+
+---
+
+<div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
+  <h3 style="color: #ff6f61;">📫 Get in Touch</h3>
+  <p>
+    <a href="mailto:your.email@example.com" style="color: #ff6f61;">✉️ your.email@example.com</a> | 
+    <a href="https://www.linkedin.com/in/sakshi-karande/" style="color: #ff6f61;">🔗 LinkedIn</a>
+  </p>
+</div>
+
 
 ---
 
