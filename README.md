@@ -28,13 +28,6 @@
   </p>
 </div>
 
-<div align="center">
-  <h3 style="color: #ff6f61;">📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=material-palenight&bg_color=0,0,0,0" alt="Sakshi's GitHub Stats" style="border: none;"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=material-palenight&bg_color=0,0,0,0" alt="Most Used Languages" style="border: none;"/>
-</div>
-
 ---
 
 <div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
