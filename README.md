@@ -21,7 +21,7 @@
 <div align="center" style="background-color: #ffe6e6; padding: 20px; border-radius: 10px;">
   <h3 style="color: #ff6f61;">📫 Get in Touch</h3>
   <p>
-    <a href="mailto:sakshikarande26@gmail.com" style="color: #ff6f61; text-decoration: none;">✉️ your.email@example.com</a><br>
+    <a href="mailto:sakshikarande26@gmail.com" style="color: #ff6f61; text-decoration: none;">✉️ sakshikarande26@gmail.com</a><br>
     <a href="https://www.linkedin.com/in/sakshi-karande/" style="color: #ff6f61; text-decoration: none;">🔗 LinkedIn Profile</a>
   </p>
 </div>
