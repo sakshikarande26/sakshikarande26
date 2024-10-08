@@ -31,7 +31,7 @@
 <div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
   <h3 style="color: #ff6f61;">🎯 Interests</h3>
   <p style="color: #ff8f8f;">
-    ✨ AI & Machine Learning | 🌼 Open-Source Contributions | 🎉 Hackathons & Competitions
+    ✨ AI & Machine Learning | Reading sci-fi books ✨
   </p>
 </div>
 
