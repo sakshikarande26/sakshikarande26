@@ -47,7 +47,7 @@
 <div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
   <h3 style="color: #ff6f61;">📫 Get in Touch</h3>
   <p>
-    <a href="mailto:your.email@example.com" style="color: #ff6f61;">✉️ your.email@example.com</a> | 
+    <a href="mailto:your.email@example.com" style="color: #ff6f61;">✉️ sakshikarande26@gmail.com </a> | 
     <a href="https://www.linkedin.com/in/sakshi-karande/" style="color: #ff6f61;">🔗 LinkedIn</a>
   </p>
 </div>
