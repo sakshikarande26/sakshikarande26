@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #ff6f61;"> Hi, I'm Sakshi! 🙋🏻‍♀️ </h1>
+  <h1 style="color: #ff6f61;"> Hola! I'm Sakshi!🙋🏻‍♀️ </h1>
   <p><em>Data Science Student | AI Engineer & Research Intern</em></p>
   <p>I'm passionate about AI and machine learning, focusing on solving real-world problems with innovative solutions. Based in Mumbai, I enjoy working on AI projects and pushing the boundaries of technology!</p>
 </div>
