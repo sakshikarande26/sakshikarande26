@@ -36,7 +36,7 @@
 
 <div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
   <h3 style="color: #ff6f61;">🔍 What I Build</h3>
-  <p style="color: #ff8f8f;">I work on smart AI applications and research to contribute to the AI revolution. From AI-driven solutions to data science tools, my work focuses on solving complex problems effectively.</p>
+  <p style="color: #ff8f8f;">I work on intelligent AI applications and research to contribute to the AI revolution. From AI-driven solutions to data science tools, my work focuses on solving complex problems effectively.</p>
 </div>
 
 <div align="center" style="background-color: #ffe6e6; padding: 15px; border-radius: 10px;">
