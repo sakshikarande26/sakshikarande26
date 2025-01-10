@@ -5,7 +5,7 @@ I am Sakshi, pursuing a Bachelor of Engineering with a focus on Artificial Intel
 - 🔭 I’m currently developing a habit of routinely incorporating Cursor IDE into my workflow.
 - 🌱 I’m delving into Agentic AI
 - 👯 I’m eager to collaborate on projects leveraging LangGraph/LangChain/RAG technologies
-- 📖 I enjoy reading real-time fictional conspiracies—Dan Brown, to be precise
+- 📖 I enjoy reading real-time fictional conspiracies, Dan Brown to be precise
 
 ### 🌱 What do I do? 
 
