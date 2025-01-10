@@ -1,10 +1,10 @@
 # Hello! 👋
 
-I am _Sakshi_. I am pursuing a Bachelor of Engineering focused on Artificial Intelligence and Data Science from _University of Mumbai, India_. I develop intelligent systems using LLMs and Deep Learning technologies. I am skilled in Machine learning, Deep Learning, Cloud Computing, Web Development with Javascript and its frameworks. 
+I am Sakshi, pursuing a Bachelor of Engineering with a focus on Artificial Intelligence and Data Science at the University of Mumbai, India. I specialize in developing intelligent systems using LLMs and Deep Learning technologies. My skill set includes Machine Learning, Deep Learning, Cloud Computing, and Web Development with JavaScript and its frameworks.
 
-- 🔭 I’m currently working on LLM based mobile application
-- 🌱 I’m currently learning Agentic AI
-- 👯 I’m looking to collaborate on projects using LangGraph/LangChain/RAG technologies
+- 🔭 I’m currently working on an LLM-based mobile application.
+- 🌱 I’m deliving into Agentic AI
+- 👯 I’m eager to collaborate on projects leveraging LangGraph/LangChain/RAG technologies
 
 ### 🌱 What do I do? 
 
@@ -14,7 +14,7 @@ I am _Sakshi_. I am pursuing a Bachelor of Engineering focused on Artificial Int
 
 
 ### ⚡What drives my growth? 
-Believing in yourself, being yoursef.😌
+Believing in yourself and staying true to who you are. 😌
 
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/sakshi-karande/) 
