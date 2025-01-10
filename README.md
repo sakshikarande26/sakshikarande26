@@ -6,9 +6,9 @@ I am _Sakshi_. I am pursuing a Bachelor of Engineering focused on Artificial Int
 - 🌱 I’m currently learning Agentic AI
 - 👯 I’m looking to collaborate on projects using LangGraph/LangChain/RAG technologies
 
-### 🌱 What do I do and What have I done? 
+### 🌱 What do I do? 
 
-- AI Engineer & Research Intern at Axia 
+- Junior AI Analyst at Axia 
 - AI/ML Lead at Microsoft Learn Student Club, VCET
 - Core Team member at National Student Data Corps, Student Chapter at VCET
 
