@@ -14,7 +14,7 @@ I am _Sakshi_. I am pursuing a Bachelor of Engineering focused on Artificial Int
 
 
 ### ⚡Something that I strongly believe in? 
-Being yourself, no one's better.😌
+Believing in yourself, no one's better.😌
 
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/sakshi-karande/) 
