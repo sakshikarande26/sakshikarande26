@@ -3,7 +3,7 @@
 I am Sakshi, pursuing a Bachelor of Engineering with a focus on Artificial Intelligence and Data Science at University of Mumbai, India. I specialize in developing intelligent systems using LLMs and Predictive Analytics. I am experienced and skilled in Machine Learning, Deep Learning, Cloud Computing, API building & testing and Web Development with JavaScript and its frameworks.
 
 - 🔭 I’m currently developing a habit of routinely incorporating Cursor IDE into my workflow.
-- 🌱 I’m deliving into Agentic AI
+- 🌱 I’m delving into Agentic AI
 - 👯 I’m eager to collaborate on projects leveraging LangGraph/LangChain/RAG technologies
 
 ### 🌱 What do I do? 
