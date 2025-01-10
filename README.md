@@ -13,7 +13,7 @@ I am _Sakshi_. I am pursuing a Bachelor of Engineering focused on Artificial Int
 - Core Team member at National Student Data Corps, Student Chapter at VCET
 
 
-### ⚡Something that I strongly believe in? 
+### ⚡What drives my growth? 
 Believing in yourself, being yoursef.😌
 
 ### 📫 How to reach me?
