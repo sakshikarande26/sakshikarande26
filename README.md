@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am _Sakshi Karande_. I am pursuing a Bachelor of Engineering focused on Artificial Intelligence and Data Science from _University of Mumbai, India_. I develop intelligent systems using LLMs and Deep Learning technologies. I am skilled in Machine learning, Deep Learning, Cloud Computing, Web Development with Javascript and its frameworks. 
+I am _Sakshi_. I am pursuing a Bachelor of Engineering focused on Artificial Intelligence and Data Science from _University of Mumbai, India_. I develop intelligent systems using LLMs and Deep Learning technologies. I am skilled in Machine learning, Deep Learning, Cloud Computing, Web Development with Javascript and its frameworks. 
 
 - 🔭 I’m currently working on LLM based mobile application
 - 🌱 I’m currently learning Agentic AI
