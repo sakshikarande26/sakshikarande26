@@ -20,7 +20,7 @@ Believing in yourself and staying true to who you are. 😌
 - [LinkedIn](https://www.linkedin.com/in/sakshi-karande/) 
 - [Email](sakshikarande26@gmail.com)
 
-I am looking forward to absorb knowledge 🌍, collaborate 🤝 and gain experience 🏭!
+I am looking forward to absorb knowledge, collaborate 🤝 and develop expertise 🌍!
 
 ***
 
