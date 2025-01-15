@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hey there! 👋
 
 I am Sakshi, pursuing a Bachelor of Engineering with a focus on Artificial Intelligence and Data Science at University of Mumbai, India. I specialize in developing intelligent systems using LLMs and Predictive Analytics. I am experienced and skilled in Machine Learning, Deep Learning, Cloud Computing, API building & testing and Web Development with JavaScript and its frameworks.
 
