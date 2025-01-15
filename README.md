@@ -10,8 +10,8 @@ I am Sakshi, pursuing a Bachelor of Engineering with a focus on Artificial Intel
 ### 🌱 What do I do? 
 
 - Junior AI Analyst at Axia 
-- AI/ML Lead at Microsoft Learn Student Club, VCET
-- Core Team member of National Student Data Corps, Student Chapter at VCET
+- AI/ML Lead at Microsoft Learn Student Club (Student chapter)
+- Core Team member of National Student Data Corps (Student chapter)
 
 
 ### ⚡What drives my growth? 
