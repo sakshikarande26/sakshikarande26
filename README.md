@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I am Sakshi, pursuing a Bachelor of Engineering with a focus on Artificial Intelligence and Data Science at University of Mumbai. I specialize in developing intelligent systems using Generative AI and Analytics. I am experienced and skilled in Machine Learning, Deep Learning, Cloud Computing, API building & testing and Web Development with JavaScript and its frameworks.
+I am Sakshi, pursuing a Bachelor of Engineering with a focus on Artificial Intelligence and Data Science at University of Mumbai. I specialize in developing intelligent systems using Generative AI and Analytics.
 
 - 🌱 I’m delving into Agentic AI
 - 👯 I’m eager to collaborate on projects leveraging LangGraph/LangChain/RAG technologies
