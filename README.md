@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I am Sakshi, pursuing a Masters in Computer Science at UMass Amherst. I specialize in developing intelligent systems using Generative AI and Analytics.
+I am Sakshi, pursuing a BTech in Data Science & AI at University of Mumbai. I specialize in developing intelligent systems using Generative AI and Analytics.
 
 - 🌱 I’m delving into Agentic AI
 - 👯 I’m eager to collaborate on projects leveraging LangGraph/LangChain/RAG technologies
