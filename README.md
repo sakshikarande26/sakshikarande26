@@ -8,7 +8,7 @@ I am Sakshi, pursuing a Masters in Computer Science at UMass Amherst. I speciali
 
 ### 🌱 What do I do? 
 
-- Junior AI Analyst at Axia 
+- Junior Analyst - Data & AI at Axia 
 - AI/ML Lead at Microsoft Learn Student Club (Student chapter)
 - Core Team member of National Student Data Corps (Student chapter)
 
