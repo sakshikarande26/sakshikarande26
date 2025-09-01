@@ -1,16 +1,15 @@
 # Hey there! 👋
 
-I am Sakshi, pursuing a BTech in Data Science & AI at University of Mumbai. I specialize in developing intelligent systems using Generative AI and Analytics.
+I am Sakshi. I specialize in developing intelligent systems with AI/ML and Analytics.
 
-- 👩🏻‍💻 I’m delving into Agentic AI
 - 👯 I’m eager to collaborate on projects leveraging LangGraph/LangChain/RAG technologies
-- 📖 I enjoy reading real-time fictional conspiracies, Dan Brown to be precise
+- 📖 I enjoy reading real-time fictional conspiracies
 
 ### 🌱 What do I do? 
 
 - Junior Analyst - Data & AI at Axia 
 - AI/ML Lead at Microsoft Learn Student Club (Student chapter)
-- Core Team member of National Student Data Corps (Student chapter)
+- Core Team member at National Student Data Corps (Student chapter)
 
 
 ### ⚡What drives my growth? 
