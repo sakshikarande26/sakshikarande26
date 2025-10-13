@@ -1,12 +1,13 @@
 # Hey there! 👋
 
-I am Sakshi. I specialize in developing intelligent systems with AI/ML and Analytics.
+I am Sakshi. I develop intelligent systems with AI/ML and Analytics.
 
 - 👯 I’m eager to collaborate on projects leveraging LangGraph/LangChain/RAG technologies
 - 📖 I enjoy reading fictional conspiracies
 
 ### 🌱 What do I do? 
 - Graduate Researcher @BioNLP Lab, UMassAmherst
+- CS @UMassAmherst
 - Junior Analyst - Data & AI at Axia 
 - AI/ML Lead at Microsoft Learn Student Club (Student chapter)
 - Core Team member at National Student Data Corps (Student chapter)
