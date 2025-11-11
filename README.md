@@ -2,9 +2,6 @@
 
 I am Sakshi. I develop intelligent systems with AI/ML and Analytics.
 
-- 👯 I’m eager to collaborate on projects leveraging LangGraph/LangChain/RAG technologies
-- 📖 I enjoy reading fictional conspiracies
-
 ### 🌱 What do I do? 
 - Graduate Researcher @BioNLP Lab, UMassAmherst
 - CS @UMassAmherst
