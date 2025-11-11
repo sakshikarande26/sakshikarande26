@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I am Sakshi. I develop intelligent systems with AI/ML and Analytics.
+I am Sakshi. I develop intelligent systems with Data & ML.
 
 ### 🌱 What do I do? 
 - Graduate Researcher @BioNLP Lab, UMassAmherst
