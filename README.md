@@ -5,9 +5,9 @@ I am Sakshi. I develop intelligent systems with Data & ML.
 ### 🌱 What do I do? 
 - Graduate Researcher @BioNLP Lab, UMassAmherst
 - CS @UMassAmherst
-- Junior Analyst - Data & AI at Axia 
-- AI/ML Lead at Microsoft Learn Student Club (Student chapter)
-- Core Team member at National Student Data Corps (Student chapter)
+- Prev: Junior Analyst - Data & AI at Axia 
+- AI/ML Developer at Microsoft Learn Student Club (Student chapter)
+- Member of National Student Data Corps NSDC (Student chapter)
 
 
 ### ⚡What drives my growth? 
