@@ -11,7 +11,7 @@ I am Sakshi. I develop intelligent systems with Data & ML.
 
 
 ### ⚡What drives my growth? 
-Believing in yourself and staying true to who you are!!
+Believing in myself and staying true to who I am!!
 
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/sakshi-karande/) 
