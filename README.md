@@ -1,12 +1,10 @@
 # Hey there! 👋
 
-I am Sakshi. I develop intelligent systems with Data & ML.
-
 ### 🌱 What do I do? 
 - Full stack development & AI systems 
 - Graduate Researcher @BioNLP Lab, UMassAmherst
 - CS @UMassAmherst
-- Prev: Junior Analyst - Data & AI at Axia 
+- Prev: SWE intern at Axia 
 - Exploring the space of AI infrastructure
 
 
