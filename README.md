@@ -10,6 +10,7 @@
 ### ✉️ How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/sakshi-karande/) 
 - [Email](sakshikarandee@gmail.com)
+- [Portfolio](https://sakshikarande26.github.io)
 
 ***
 
