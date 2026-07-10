@@ -1,7 +1,7 @@
 # Hi there! 👋🏻
 
-### 👩🏻‍💻 What do I do? 
-- Full stack development & AI systems 
+### 👩🏻‍💻 What  I do? 
+- Building Full stack & AI systems 
 - Graduate Researcher @BioNLP Lab, UMassAmherst
 - CS @UMassAmherst
 - Prev: SWE intern at Axia 
