@@ -7,10 +7,6 @@
 - Prev: SWE intern at Axia 
 - Exploring the space of AI infrastructure
 
-
-### ⚡What drives my growth? 
-Believing in myself and staying true to who I am!!
-
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/sakshi-karande/) 
 - [Email](sakshikarandee@gmail.com)
