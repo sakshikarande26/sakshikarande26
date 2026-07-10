@@ -1,13 +1,13 @@
-# Hey there! 👋
+# Hey there! 
 
-### 🌱 What do I do? 
+### 👩🏻‍💻 What do I do? 
 - Full stack development & AI systems 
 - Graduate Researcher @BioNLP Lab, UMassAmherst
 - CS @UMassAmherst
 - Prev: SWE intern at Axia 
 - Exploring the space of AI infrastructure
 
-### 📫 How to reach me?
+### ✉️ How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/sakshi-karande/) 
 - [Email](sakshikarandee@gmail.com)
 
