@@ -1,4 +1,4 @@
-# Hey there! 👋🏻
+# Hi there! 👋🏻
 
 ### 👩🏻‍💻 What do I do? 
 - Full stack development & AI systems 
